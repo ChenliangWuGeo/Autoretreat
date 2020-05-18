@@ -1,5 +1,3 @@
-%% Moving Boundary method from Parker et al., 2008b
-tic
 clear
 clc
 
