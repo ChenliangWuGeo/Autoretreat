@@ -154,12 +154,6 @@ D(:,:) = 2.^Phi(:,:); % calculate mean grain size for each group in mm.
 Dg = 2.^Phia/1000; % geometric mean grain size 
 DgFs = 2.^PhiaFs/1000; % geometric mean grain size
 
-% bws = 0; % backwater start point
-% bwln = []; % backwater length using normal flow depth and slope
-% bwlm = []; % backwater length using river mouth flow depth and slope
-% bwlnx = []; % x coordinate of bw transition normal flow
-% bwlmx = []; % x coordinate of bw transition river mouth
-
 %pre-allocate for plotting
 ti = 500/tf;  % sample interval for ploting figure
 
