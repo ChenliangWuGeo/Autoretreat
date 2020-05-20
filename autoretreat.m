@@ -193,7 +193,8 @@ for tspan=1:noTimeSteps
     idxd = idxd(rS<=rS_threshold);
     [colum, idxul]= size(rS(rS>rS_threshold));
     idx = (1:noNodes);
-    
+
+% solving the backwater equation using 4th-order runge-kutta method
     kh1(idx) = ((-be(idx+1)+be(idx))/dxn/(stf-sba)...
                 -(kc^(1/3)*qw^2/ar^2/g./H(idx+1).^(10/3)))./(1-qw^2/g./H(idx+1).^3)*dxn*(stf-sba);      
     kh2(idx) = ((-be(idx+1)+be(idx))/dxn/(stf-sba)...
