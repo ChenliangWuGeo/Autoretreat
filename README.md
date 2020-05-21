@@ -1,4 +1,4 @@
-Code for simulating fluvial morphodynamics during base level rise.
+Code (https://doi.org/10.5281/zenodo.3837668) for simulating fluvial morphodynamics during base level rise.
 
 Simulation results are described and discussed in Wu et al. (2020) "Morphodynamic equilibrium of lowland river systems during autoretreat".
 
