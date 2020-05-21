@@ -1,6 +1,5 @@
-Code () for simulating fluvial morphodynamics during base level rise.
-https://zenodo.org/badge/261873529.svg
-[![DOI](https://zenodo.org/badge/261873529.svg)](https://zenodo.org/badge/latestdoi/261873529)
+Code (DOI: 10.5281/zenodo.3837668) for simulating fluvial morphodynamics during base level rise.
+
 Simulation results are described and discussed in Wu et al. (2020) "Morphodynamic equilibrium of lowland river systems during autoretreat".
 
 The code is based on the numerical model of Wu and Nittrouer (2019), where the morphodynamic model of Parker et al. (2008a, b) is integrated with and the “surface-based” grain size method (Naito et al., 2019) to calculate non-uniform flow hydraulics, channel bed grain size, and simulate the evolution of the alluvial profile.
