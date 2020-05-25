@@ -1,4 +1,4 @@
-Code (https://doi.org/10.5281/zenodo.3837668) for simulating fluvial morphodynamics during base level rise.
+Code (Wu, 2020) for simulating fluvial morphodynamics during base level rise.
 
 Simulation results are described and discussed in Wu et al. (2020) "Morphodynamic equilibrium of lowland river systems during autoretreat".
 
@@ -11,5 +11,7 @@ References
 Naito, K., Ma, H., Nittrouer, J. A., Zhang, Y., Wu, B., Wang, Y., Fu, X., and Parker, G., 2019, Extended Engelund–Hansen type sediment transport relation for mixtures based on the sand-silt-bed Lower Yellow River, China. Journal of Hydraulic Research, v. 57:6, p. 770-785.
 
 Parker, G., Muto, T., Akamatsu, Y., Dietrich, W. E., & Wesley Lauer, J. (2008b). Unravelling the conundrum of river response to rising sea-level from laboratory to field. Part II. The Fly–Strickland River system, Papua New Guinea. Sedimentology, 55(6), 1657-1686.
+
+Wu (2020). ChenliangWuGeo/Autoretreat: first release of autoretreat (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3837668.
 
 Wu, C., & Nitterour, J. A. (2020). Impacts of backwater hydrodynamics on fluvial–deltaic stratigraphy. Basin Research, 32: 567– 584.
